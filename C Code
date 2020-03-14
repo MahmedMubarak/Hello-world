@@ -1,0 +1,11 @@
+// the libraries
+#include <stdio.h>
+#include <stdlib.h>
+// the main fuction
+int main()
+{
+    //print helo world
+    //  \n new line
+    printf("Hello, world \n");
+    return 0;
+}
